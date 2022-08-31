@@ -15,7 +15,7 @@ var optionsVariable ="";
 // Event listener added to generate button
 generateBtn.addEventListener("click", writePassword);
 
-// Funtion to rite password 
+// Function to rite password 
 function writePassword() {
   
   password.value === "";
