@@ -77,4 +77,6 @@ function writePassword() {
 
   }
   
+  The URL is: https://subie23.github.io/Password-Magic/
   
+  The URL of the GitHub repository is: https://github.com/subie23/Password-Magic
